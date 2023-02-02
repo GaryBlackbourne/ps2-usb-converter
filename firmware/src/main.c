@@ -2,18 +2,18 @@
 #include <stdint.h>
 
 // mcu specific includes
-
-// FreeRTOS includes
-
-// FreeRTOS port
+#include "stm32f070x6.h"
+#include "system_stm32f0xx.h"
 
 // project includes
+#include "pro_clock_config.h"
 
 int main (void){
-
-  // begin and init, possible OS start
-
-  while(1){
+    
+    // begin and init
+    init_clocks();
+    
+    while(1){
     // main infinite loop
-  }
+    }
 }
