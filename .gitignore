@@ -11,3 +11,11 @@ pcb/*.net
 
 ## backups
 pcb/ps2-usb-converter-backups
+
+#Firmware
+
+firmware/compile_commands.json
+firmware/openocd-start
+firmware/output/*
+!firmware/output/.gitkeep
+firmware/README.md
