@@ -1,0 +1,13 @@
+# pcb files
+*/fp-info-cache
+*/gerbers
+
+## autosave files
+\#auto_saved_files\#
+
+## kicad netlist files
+*.net
+*.net
+
+## backups
+ps2-usb-converter-backups
