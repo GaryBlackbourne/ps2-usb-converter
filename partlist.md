@@ -1,1 +1,5 @@
 uC: [stm32f070C6T6TR](https://hu.farnell.com/stmicroelectronics/stm32f070c6t6tr/mcu-32bit-48mhz-lqfp-48/dp/3365469RL?st=stm32)
+
+ps2-conn: [link]()
+
+
