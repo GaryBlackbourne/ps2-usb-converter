@@ -19,3 +19,4 @@ firmware/openocd-start
 firmware/output/*
 !firmware/output/.gitkeep
 firmware/README.md
+firmware/.cache
